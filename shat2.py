@@ -13,7 +13,7 @@ from langdetect import detect
 tx = False
 rx = False
 
-print("---->CHAT GRUPO 5<----\n¿Qué desea hacer?")
+print("---->CHAT GRUPO 6<----\n¿Qué desea hacer?")
 print("1. Enviar un mensaje")
 print("2. Recibir un mensaje")
 opcion = input("Acción a realizar:")
